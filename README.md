@@ -58,6 +58,6 @@ STUDENT GRADE CALCULATOR
 	# Instraction:
 
 			1. Copy Full code.
-			2. Save: StudentGrade.java
-			3. Compile: javac StudentGradeCalculator.java
-			4. Run: java StudentGradeCalculator
+			2. Save: Grade.java
+			3. Compile: javac Grade.java
+			4. Run: java Grade
